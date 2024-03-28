@@ -1,5 +1,5 @@
 # EDA with Pandas - Cumulative Lab
-
+# A Pandas Introduction lab, getting all the basic concepts of Pandas
 ## Introduction
 
 In this section, you've learned a lot about importing, cleaning up, analyzing (using descriptive statistics) and visualizing data. In this cumulative lab, you'll get a chance to practice all of these skills with the Ames Housing dataset, which contains information about home sales in Ames, Iowa between 2006 and 2010.
